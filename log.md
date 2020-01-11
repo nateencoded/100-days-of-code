@@ -43,3 +43,12 @@ https://www.codecademy.com/users/nateencoded/achievements
 
 **Link(s) to work** 
 https://www.codecademy.com/users/nateencoded/achievements
+
+
+### Day 4: 11th January, Saturday
+**Today's Progress**: Lessons Completed: Navigation of Command Line. Projects Completed: Dasmoto's Arts & Crafts, Bicycle World. Modules Completed: Intro to Local Website Development, Command Line for Building Websites. Milestones Completed: How to Build Websites on Your Own Computer.
+
+**Thoughts** Command line stuff was cool to work through just to get a feel for it. I've always had a soft spot for keyboard shortcuts so using the terminal could become the new norm. Figuring out background images in elements was a little process. Turns out all I was missing was one . to go back a directory. If I had done the command line module first this would maybe have been figured out a bit quicker. Also, interesting to compare my html & css to the solutions on Dasmoto's project. My HTML was a bit shorter due to not using DIVs (good or bad?) and CSS was a tiny bit longer.
+
+**Link(s) to work** 
+https://www.codecademy.com/users/nateencoded/achievements
