@@ -52,3 +52,15 @@ https://www.codecademy.com/users/nateencoded/achievements
 
 **Link(s) to work** 
 https://www.codecademy.com/users/nateencoded/achievements
+
+
+
+### Day 5: 13th January, Monday
+**Today's Progress**: Lessons Completed: The Box Model, Changing the Box Model, CSS Display and Positioning. Projects Completed: Typography, The Box Model: Davie's Burgers, Broadway. Modules Completed: Learn CSS: Typography, Learn CSS: The Box Model, Display and Positioning. Milestones Completed: Intermediate CSS: Colors and Typography, Intermediate CSS: Layout and Positioning.
+
+**Thoughts** Mostly smooth sailing today, the biggest hiccup was a couple of incorrect answer on the CSS positioning and display quiz. I need to know the values a little bit better and their effects, specifically absolute vs static vs relative.
+
+**Side Note** Sunday had a small bit of coding but was distracted so didn't count it towards 100DaysOfCode.
+
+**Link(s) to work** 
+https://www.codecademy.com/users/nateencoded/achievements
