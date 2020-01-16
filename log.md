@@ -64,3 +64,19 @@ https://www.codecademy.com/users/nateencoded/achievements
 
 **Link(s) to work** 
 https://www.codecademy.com/users/nateencoded/achievements
+
+
+### Day 6 & 7: 14th & 16th January, Tuesday & Thursday
+**Today's Progress**: 
+Lessons Completed: Sizing Elements, Media Queries, Accessibility, Documentation and Research.
+Projects Completed: Tsunami Coffee.
+Modules Completed: Learn Responsive Design, Web Accessibility, CSS Documentation and Debugging. 
+Milestones Completed: Responsive Design and Accessibility.
+
+**Thoughts** Slow going over the past couple of days, more through stress and distractions than a lack of understanding. A little concerned about the upcoming Fotomatic project and putting into practice the past few lessons.
+
+**Side Note** .
+
+**Link(s) to work** 
+https://www.codecademy.com/users/nateencoded/achievements
+
